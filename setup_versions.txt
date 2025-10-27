@@ -36,3 +36,14 @@ Gems included by the bundle:
   * unicode-display_width (2.6.0)
   * webrick (1.9.1)
 Use `bundle info` to print more detailed information about a gem
+
+
+
+run el server es 
+bundle exec jekyll serve
+
+
+subir al github 
+git add .
+git commit -m "Configuración inicial y personalización del sitio"
+git push origin main
