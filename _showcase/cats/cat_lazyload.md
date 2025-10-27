@@ -1,6 +1,6 @@
 ---
 show: true
-width: 3
+width: 5
 date: 2019-01-12 00:01:00 +0800
 group: Cats
 ---

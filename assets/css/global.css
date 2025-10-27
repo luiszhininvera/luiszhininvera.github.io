@@ -2,6 +2,7 @@
 body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
+    font-size: 20px;
     padding-top: 5.0rem;
 }
 
@@ -89,4 +90,18 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+/* Ancho máximo más amplio para el contenedor principal */
+@media (min-width: 992px) {
+    .container-lg {
+        max-width: 1100px; /* ajusta a gusto */
+    }
+}
+
+@media (min-width: 1400px) {
+    .container-lg {
+        max-width: 1380px; /* ajusta a gusto */
+    }
+}
+
 

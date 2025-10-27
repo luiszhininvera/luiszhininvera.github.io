@@ -2,10 +2,10 @@ primary_name: "Luis Zhinin-Vera"
 secondary_name: ""
 navbar_name: "Luis Zhinin-Vera"
 
-positions:
-- name: "AI & Computer Science Researcher"
-- name: "University of Castilla-La Mancha"
-  logo: "/assets/images/badges/uclm_logo.png"  # Logo is optional
+#positions:
+#- name: "AI & Computer Science Researcher"
+#- name: "University of Castilla-La Mancha"
+#  logo: "/assets/images/badges/uclm_logo.png"  # Logo is optional
 
 
 email: "luis.zhininvera@gmail.com"
@@ -22,22 +22,22 @@ linkedin: luisfernandozhininvera
 #  AV <a href="https://scholar.google.com/citations?user=1JLu0o4AAAAJ&hl=es" target="_blank">Frank Dignum</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
 #  AV <a href="https://yoshuabengio.org" target="_blank">Yoshua Bengio</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hi! I’m Luis, a PhD student in Computer Science at the University of Castilla–La Mancha (Spain).
+    Hi! I’m a PhD student in Computer Science at the University of Castilla–La Mancha, Spain.
     I’m fascinated by how artificial agents can learn, adapt, and understand others — a bit like us.
     My research explores Theory of Mind, Multi-agent Systems, and Reinforcement Learning, guided by the question: what does it mean for AI to think socially?
   </p>
   <p>
-    I recently spent time at Umeå University (Sweden) working with <a href="https://scholar.google.com/citations?user=1JLu0o4AAAAJ&hl=es" target="_blank">Frank Dignum</a>, and attended an AI summer school at Mila (Canada) — home to <a href="https://yoshuabengio.org" target="_blank">Yoshua Bengio</a> and an inspiring community of researchers.
+    I recently spent time at Umeå University (Sweden) working with <a href="https://scholar.google.com/citations?user=1JLu0o4AAAAJ&hl=es" target="_blank">Frank Dignum</a>, and attended an DLRL Summer School  at Mila (Canada) — home to <a href="https://yoshuabengio.org" target="_blank">Yoshua Bengio</a> and an inspiring community of researchers.
     I love connecting ideas from cognitive science and machine learning to imagine AI systems that not only act intelligently, but empathetically.  
   
   </p>
 
-portrait_url: /assets/images/photos/fotoluis.jpg
+portrait_url: /assets/images/photos/luis_foto2.JPEG
 portrait_caption: >-
-  Photo of Luis Fernando Zhinin Vera
+  Luis Fernando Zhinin Vera
 education:
 - name: University of Castilla-La Mancha
   logo: /assets/images/badges/uclm_logo.png
@@ -63,6 +63,14 @@ experience:
   logo: /assets/images/badges/umea_logo.png
   position: Visiting Researcher
   date: Jan. 2025 - Apr. 2025
+- name: Mila - Quebec AI Institute
+  logo: /assets/images/badges/mila_logo.png
+  position: Summer School Assistant
+  date: Jul. 2023
+- name: Yachay Tech University
+  logo: /assets/images/badges/yachay_logo.png
+  position: Visiting Researcher
+  date: Sep. 2023 - Oct. 2023  
 
 awards:
 - name: Award Name 2
