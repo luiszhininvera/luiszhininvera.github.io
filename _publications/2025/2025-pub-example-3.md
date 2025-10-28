@@ -1,6 +1,6 @@
 ---
 title:          "Mindful Human Digital Twins: Integrating Theory of Mind with multi-agent reinforcement learning"
-#date:           2024-05-12 00:01:00 +0800
+date:           2025-05-12 00:01:00 +0800
 selected:       true
 pub:            "Applied Soft Computing"
 # pub_pre:        "Submitted to "
@@ -18,6 +18,6 @@ authors:
   - Elena Navarro
   - Pascual González
 links:
-  Link paper: https://doi.org/10.1016/j.asoc.2025.112939
+  Paper: https://doi.org/10.1016/j.asoc.2025.112939
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
