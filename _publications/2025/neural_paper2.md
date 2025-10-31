@@ -5,7 +5,7 @@ selected:       true
 pub:            "Neural Computing and Applications."
 # pub_pre:        "Submitted to "
 #pub_post:       ' Accepted, waiting publication.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted, waiting publication*</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted, waiting publication</span>'
 pub_date:       "2025"
 #semantic_scholar_id: e4c42bdc965130703cd12fcb0786da4dba90fe47  # use this to retrieve citation count
 abstract: >-
