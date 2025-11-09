@@ -10,7 +10,7 @@ pub_date:       "2023"
 semantic_scholar_id: abaf71b223305d9b8a3544915fd5b2a7726ceda4  # use this to retrieve citation count
 abstract: >-
   Glaucoma is a leading cause of irreversible blindness worldwide, affecting millions of people. Early diagnosis is essential to reduce visual loss, and various techniques are used for glaucoma detection. In this work, a hybrid method for glaucoma fundus image localization using pre-trained Region-based Convolutional Neural Networks (R-CNN) ResNet-50 and cup-to-disk area segmentation is proposed. The ACRIMA and ORIGA databases were used to evaluate the proposed approach. The results showed an average confidence of 0.879 for the ResNet-50 model, indicating it as a reliable alternative for glaucoma detection. Moreover, the cup-to-disc ratio was calculated using Gradient-color-based optic disc segmentation, coinciding with the ResNet-50 results in 80% of cases, having an average confidence score of 0.84. The approach suggested in this study can determine if glaucoma is present or not, with a final accuracy of 95% with specific criteria provided to guide the specialist for an accurate diagnosis. In summary, the proposed model provides a reliable and secure method for diagnosing glaucoma using fundus images.
-cover:          /assets/images/covers/puchaicela_paper.PNG
+cover:          /assets/images/covers/puchaicela_paper.png
 authors:
   - Marlene S. Puchaicela-Lozano
   - Luis Zhinin-Vera 
