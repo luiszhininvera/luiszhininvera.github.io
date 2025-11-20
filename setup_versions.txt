@@ -38,6 +38,10 @@ Gems included by the bundle:
 Use `bundle info` to print more detailed information about a gem
 
 
+dominio
+namecheap
+user luiszhinin
+pass Lfzv26...$
 
 run el server es 
 bundle exec jekyll serve
