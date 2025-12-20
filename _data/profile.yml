@@ -1,6 +1,6 @@
 primary_name: "Luis Zhinin-Vera"
 secondary_name: ""
-navbar_name: "Luis Zhinin-Vera"
+navbar_name: "Luis Fernando Zhinin Vera"
 
 #positions:
 #- name: "AI & Computer Science Researcher"
@@ -43,7 +43,7 @@ education:
   logo: /assets/images/badges/uclm_logo.png
   position: >- 
     Department of Computer Systems <br/>
-    Ph.D.in Computer Science
+    Ph.D. in Computer Science
   date: Jan. 2022 - Dic. 2025
 - name: Polytechnic University of Madrid
   logo: /assets/images/badges/upm_logo.png
@@ -71,6 +71,40 @@ experience:
   logo: /assets/images/badges/yachay_logo.png
   position: Visiting Researcher
   date: Sep. 2023 - Oct. 2023  
+- name: Polytechnic University of Madrid
+  logo: /assets/images/badges/upm_logo.png
+  position: Research Intern at Biomedical Informatics Group (GIB) 
+  date: Jan. - Jun. 2021 
+- name: MIND Research Group
+  logo: /assets/images/badges/mind_logo.jpeg
+  position: CO-Founder & Researcher 
+  date: Jun. 2020 - Dec. 2021
+- name: Northern Catholic University
+  logo: /assets/images/badges/unica_logo.jpg
+  position: Research Intern
+  date: May. - Jun. 2019
+- name: National Institute of Electricity and Clean Energies (INEEL)
+  logo: /assets/images/badges/ineel_logo.png
+  position: Research Intern
+  date: May. - Jun. 2018  
+
+
+
+
+industryexperience:
+- name: Farmamia CIA LTDA
+  logo: /assets/images/badges/farmamia_logo.jpeg
+  position: Data Scientist 
+  date: Nov. 2025 - Present
+- name: Bi-Solutions
+  logo: /assets/images/badges/bi_solutions_logo.png
+  position: Data Scientist
+  date: Jan. 2021 - Jan. 2023   
+- name: Farmamia CIA LTDA
+  logo: /assets/images/badges/farmamia_logo.jpeg
+  position: Data Scientist 
+  date: Apr. 2023 - Nov. 2024
+
 
 awards:
 - name: Best Paper in the ICT Applications. TICEC 2023
@@ -81,3 +115,16 @@ awards:
   date: 2022
 - name: Award for Scientific Merit. Municipality of La Maná, Ecuador
   date: 2021
+
+projects:
+- name: Human Digital Twins for fostering Prosocial Behaviour (PID2022-140907OB-I00). UCLM
+  date: Sep. 2023 - Present
+- name: Design and Evaluation of a Framework Driven by the User Experience for the Development of Cyberphysical Social Systems for Healthcare (2gether) (PID2019-108915RB-I00). UCLM
+  date: Mar. 2022 - Feb. 2024
+- name: Interaction Paradigms for the New Era of Digital Resilience (2022-GRIN-34436). UCLM
+  date: Apr. 2023 - Mar. 2025
+- name: Diseño y construcción de un biosensor para detección de pesticidas (PII24-03). Yachay Tech University
+  date: Sep. 2024 - Sep. 2025
+
+
+
