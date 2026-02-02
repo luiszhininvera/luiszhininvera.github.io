@@ -43,7 +43,7 @@ namecheap
 user luiszhinin
 pass Lfzv26...$
 
-run el server es 
+run el server es  
 bundle exec jekyll serve
 
 
