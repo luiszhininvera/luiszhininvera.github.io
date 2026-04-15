@@ -59,6 +59,10 @@ education:
   date: Apr. 2015 - Mar. 2020  
 
 experience:
+- name: Yachay Tech University
+  logo: /assets/images/badges/yachay_logo.png
+  position: Lecturer in Applied Data Science
+  date: Apr. 2026 - Present
 - name: Umeå University
   logo: /assets/images/badges/umea_logo.png
   position: Visiting Researcher
